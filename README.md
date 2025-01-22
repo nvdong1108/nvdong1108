@@ -24,7 +24,7 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <!-- AJAX -->
-  <img src="https://img.icons8.com/color/48/000000/ajax.png" alt="AJAX" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/AJAX-Active-blue" alt="AJAX" />
   <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <!-- Oracle -->
@@ -35,6 +35,6 @@
   <img src="https://img.icons8.com/color/48/000000/ibm.png" alt="IBM WebSphere" width="40" height="40"/>
 </p>
 
---
+---
 ## My GitHub Stats
 ![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvdong1108&show_icons=true&theme=radical)
