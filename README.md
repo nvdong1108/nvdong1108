@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My GitHub Stats
+![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvdong1108&show_icons=true&theme=radical)
 
 **nvdong1108/nvdong1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
