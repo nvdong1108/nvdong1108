@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 # 👋 Welcome to My GitHub Profile!
 - 🔭 Currently working on Java Backend projects.
