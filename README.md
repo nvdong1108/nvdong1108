@@ -34,6 +34,33 @@
   <!-- IBM WebSphere -->
   <img src="https://img.icons8.com/color/48/000000/ibm.png" alt="IBM WebSphere" width="40" height="40"/>
 </p>
+---
+#Experience Summary
+## 4 years of experience in banking and payment gateways.
+
+## 2 years of experience working on banking products for Vietnam.
+
+## 2 years of experience in e-commerce website development, primarily focusing on online payment integration.
+
+Clients: USA, Japan, South Korea, Thailand, Malaysia.
+
+# Payment Gateways & APIs Integrated
+
+- [Stripe](https://stripe.com/)
+    
+- [Univapay](https://univapay.com/)
+
+- [Pesapal](https://www.pesapal.com)
+
+- [Veritrans](https://www.veritrans.co.jp)
+
+- [KBank API](https://apiportal.kasikornbank.com)
+
+- [Paygent](https://www.paygent.co.jp/)
+
+
+
+
 
 ---
 ## My GitHub Stats
